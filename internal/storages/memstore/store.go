@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/kulti/otus_open_lesson/internal/models"
+	"github.com/roninwd/otus_open_lesson/internal/models"
 )
 
 type MemStore struct {
