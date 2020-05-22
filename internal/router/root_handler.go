@@ -3,7 +3,7 @@ package router
 import (
 	"net/http"
 
-	"github.com/kulti/otus_open_lesson/internal/storages"
+	"github.com/roninwd/otus_open_lesson/internal/storages"
 )
 
 type rootHandler struct {
