@@ -7,9 +7,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/kulti/otus_open_lesson/internal/models"
-	"github.com/kulti/otus_open_lesson/internal/router"
-	"github.com/kulti/otus_open_lesson/internal/storages/memstore"
+	"github.com/roninwd/otus_open_lesson/internal/models"
+	"github.com/roninwd/otus_open_lesson/internal/router"
+	"github.com/roninwd/otus_open_lesson/internal/storages/memstore"
 	"github.com/stretchr/testify/require"
 )
 
