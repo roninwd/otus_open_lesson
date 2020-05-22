@@ -1,4 +1,4 @@
-module github.com/kulti/otus_open_lesson
+module github.com/roninwd/otus_open_lesson
 
 go 1.13
 
